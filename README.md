@@ -6,3 +6,5 @@ commenting `@JohnGoo-bot <request>` on an issue.
 Run it with `bash hello.sh`.
 
 Run `bash print.sh` to print `hello world`.
+
+`ping.txt` contains `pong`, and is used as a simple connectivity check.
